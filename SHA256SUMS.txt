@@ -1,1 +1,1 @@
-2f96c03431e0637915a054e75aa7bb1afb47f6176c9c508777edcd90d26a40d9  Paperdesk-1.0.0-beta.1-Windows-x64-Share.zip
+e9f1ce5ca702bc25b3af94332e2310862bd6d663bccbbff4f6f715dbfd4387ba  Paperdesk-1.0.0-beta.2-Windows-x64-Share.zip
